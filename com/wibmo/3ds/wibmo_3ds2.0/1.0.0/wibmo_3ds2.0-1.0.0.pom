@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.wibmo.3ds</groupId>
+  <artifactId>wibmo_3ds2.0</artifactId>
+  <version>1.0.0</version>
+  <packaging>aar</packaging>
+  <name>threeds2sdk</name>
+  <description>The SDK is designed as per the specification of EMV 3-D Secure Protocol and Core Functions Specification version 2.1.0 You need an license from Wibmo Inc. to use the SDK in your apps. Contact us @ android@wibmo.com for obtaining license. Wibmo3ds is certified by EMVCO which can be found at https://www.emvco.com/wp-content/uploads/approved_products/uploaded/loa/3DS_LOA_SDK_WIBM_020100_00128_23Apr19.pdf</description>
+  <url>http://www.wibmo.com/</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>Wibmo_3ds</id>
+      <name>Wibmo Inc</name>
+      <email>android@wibmo.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <url>https://github.com/wibmo3ds/Test_aar.git/</url>
+  </scm>
+</project>
