@@ -141,4 +141,5 @@
       <version>0.0.7</version>	
       <scope>runtime</scope>	
     </dependency>
+   </dependencies>	
 </project>
